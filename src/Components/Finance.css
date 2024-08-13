@@ -1,0 +1,23 @@
+.cont20{
+
+    width:70%;
+    height: 580px;
+    /* background-color: red; */
+    
+    
+    border-radius: 15px;
+    background-image:  url('https://cdn.usegalileo.ai/sdxl10/6c7c771b-113e-44e6-823d-fe54c33f285f.png'); 
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size:100% 100%;
+    
+    /* background: linear-gradient(rgba(0, 0, 0, 0.1) 0%, rgba(0, 0, 0, 0.4) ); */
+   
+  
+}
+
+
+.con22{
+    
+    background-image: linear-gradient(rgba(0, 0, 0, 0.1) 0%, rgba(0, 0, 0, 0.4) );
+}
